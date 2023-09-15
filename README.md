@@ -27,6 +27,5 @@ We actively encourage contributions and appreciate feedback from the open-source
 License:
 This project is licensed under the MIT License, enabling free use in both open-source and commercial projects.
 
-Thank you for choosing FaceRecognitionWebPage by me. Get started today and empower your web applications with the capabilities of facial recognition! 🚀
+Thank you for choosing FaceRecognitionWebPage by me. Get started today and empower your web applications with the capabilities of facial recognition! 
 
-Please replace "[link-to-license-file]" with the actual link to your project's license file, if applicable.
