@@ -1,0 +1,103 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: #000;
+}
+
+.videoDiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+canvas {
+    position: absolute;
+}
+
+#nav {
+    background-color: #333333;
+    padding: 1vw 3vw;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.nav-right p {
+    font-size: 15px;
+    font-family: "Roboto";
+    color: #c8c8c8;
+    text-transform: capitalize;
+}
+
+.nav-middle p {
+    font-size: 15px;
+    font-family: "Roboto";
+    color: #c8c8c8;
+    text-transform: capitalize;
+}
+
+.nav-left {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.nav-left a {
+    text-decoration: none;
+    color: #c8c8c8;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.nav-left p {
+    color: #fff;
+    font-size: 14px;
+    font-family: 'Space Mono', monospace;
+    text-transform: capitalize;
+    display: none;
+}
+
+.followGit {
+    width: 100vw;
+    padding: 1vw 3vw;
+    background-color: #2872bd;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.followGit p {
+    font-size: 18px;
+    font-family: "Roboto";
+    color: #fff;
+    text-transform: capitalize;
+}
+
+.vincent {
+    text-decoration: none;
+    color: #fff;
+}
+
+.vincent:hover {
+    text-decoration: underline;
+}
+
+#video {
+    margin-top: 4vh;
+    margin-bottom: 6vh;
+}
+
+.videoDiv p {
+    font-size: 15px;
+    font-family: "Roboto";
+    color: #c8c8c8;
+}
