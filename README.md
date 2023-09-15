@@ -3,7 +3,7 @@
 https://github.com/ANSHPG/FaceDetectJs-PC/assets/132222062/ef7a40f5-f86c-45dc-9fe6-285639b59b3f
 
 Description:
-Welcome to the FaceRecognitionWebPage repository, a versatile solution for adding facial recognition capabilities to your web applications. Developed by Vincent Mulher, this project combines the power of HTML, CSS, JavaScript, and the FaceAPI to enable accurate and efficient face recognition directly within your web pages.
+Welcome to the FaceRecognitionWebPage repository, a versatile solution for adding facial recognition capabilities to your web applications. API Developed by Vincent Mulher, this project combines the power of HTML, CSS, JavaScript, and the FaceAPI to enable accurate and efficient face recognition directly within your web pages.
 
 Features:
 
@@ -27,6 +27,6 @@ We actively encourage contributions and appreciate feedback from the open-source
 License:
 This project is licensed under the MIT License, enabling free use in both open-source and commercial projects.
 
-Thank you for choosing FaceRecognitionWebPage by Vincent Mulher. Get started today and empower your web applications with the capabilities of facial recognition! 🚀
+Thank you for choosing FaceRecognitionWebPage by me. Get started today and empower your web applications with the capabilities of facial recognition! 🚀
 
 Please replace "[link-to-license-file]" with the actual link to your project's license file, if applicable.
